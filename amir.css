@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.ota{
+    width: 800px;
+    height: 289px;
+    border: 20px solid #dc99f3;
+    border-radius: 50px;
+    padding: 0px 36px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 180px;
+}
+.bola {
+    width: 96px;
+    height: 167px;
+    background-color: #d9d9d9;
+    border-radius: 30px; 
+    
+
+}
+.ota1{
+    justify-content: flex-end;
+    
+}
+.ota2{
+    justify-content: center;
+}
+   
+.ota3{
+    justify-content: space-between  ;
+    padding: 0%;
+    
+    
+}
+.ota4{
+    justify-content: space-between;
+}
+.ota5{
+    justify-content: space-evenly;
+}
